@@ -1,0 +1,9 @@
+{
+    "name": "rufmorio-graphics-1",
+    "version": "0.0.1",
+    "title": "RUFMOrio Graphics 1",
+    "author": "Rify",
+    "factorio_version": "2.0",
+    "dependencies": ["base >= 1.1"],
+    "description": "Rify's Unknown Factorio Mod Overhaul-rio (RUFMOrio) Graphics Pack 1!"
+}
